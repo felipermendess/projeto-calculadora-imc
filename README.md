@@ -18,7 +18,7 @@ Projeto Calculadora do IMC ( Índice de Massa Corpórea ) que calcula a faixa de
 - Peso e altura podem ser digitados com vírgula ou ponto.
 
 ## Implantar 
-Link do projeto: 
+Link do projeto: https://felipermendess.github.io/projeto-calculadora-imc/
 
 ## Minhas Redes
 Meu linkedin: https://www.linkedin.com/in/felipermendess/ <br>
